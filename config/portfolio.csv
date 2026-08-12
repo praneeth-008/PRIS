@@ -1,0 +1,13 @@
+ticker,instrument_name,asset_class,target_weight,currency,primary_risk_factor
+SPY,SPDR S&P 500 ETF,Equity,0.20,USD,US Equity
+QQQ,Invesco QQQ Trust,Equity,0.10,USD,US Technology
+IWM,iShares Russell 2000 ETF,Equity,0.05,USD,US Small Cap
+XLF,Financial Select Sector SPDR,Equity,0.05,USD,US Financials
+TLT,iShares 20+ Year Treasury Bond ETF,Rates,0.12,USD,Long Treasury
+IEF,iShares 7-10 Year Treasury Bond ETF,Rates,0.08,USD,Intermediate Treasury
+SHY,iShares 1-3 Year Treasury Bond ETF,Rates,0.05,USD,Short Treasury
+LQD,iShares Investment Grade Corporate Bond ETF,Credit,0.10,USD,Investment Grade Credit
+HYG,iShares High Yield Corporate Bond ETF,Credit,0.08,USD,High Yield Credit
+GLD,SPDR Gold Shares,Commodity,0.07,USD,Gold
+USO,United States Oil Fund,Commodity,0.05,USD,Crude Oil
+UUP,Invesco DB US Dollar Index Bullish Fund,FX,0.05,USD,US Dollar
